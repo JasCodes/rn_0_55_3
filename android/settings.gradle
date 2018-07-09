@@ -1,0 +1,3 @@
+rootProject.name = 'parcelrn55'
+
+include ':app'
